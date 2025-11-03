@@ -1,0 +1,11 @@
+{
+  "name": "sde-assignment",
+  "version": "1.0.0",
+  "description": "NodeJS module for merging time ranges within a threshold",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Faizan",
+  "license": "ISC"
+}
